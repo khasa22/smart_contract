@@ -13,4 +13,5 @@ Resources from where I have been studying about smart contract and solidity lang
 https://cryptozombies.io/
 https://www.tutorialspoint.com/solidity/solidity_constructors.htm
 https://www.trufflesuite.com/docs/truffle/overview
+https://www.coursera.org/
 
