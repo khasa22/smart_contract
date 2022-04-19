@@ -8,3 +8,9 @@ that allows:
 etc.). For example, if account A purchases a product from account B, then
 a function of the smart-contract is executed to send the amount (which
 corresponds to a number of tokens).
+
+Resources from where I have been studying about smart contract and solidity language:
+https://cryptozombies.io/
+https://www.tutorialspoint.com/solidity/solidity_constructors.htm
+https://www.trufflesuite.com/docs/truffle/overview
+
